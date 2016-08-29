@@ -18,6 +18,9 @@ public class Calculator extends AppCompatActivity {
     Button b_plus, b_minus, b_div, b_multi;
     TextView textView;
 
+    double num1, num2, result;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -36,13 +39,28 @@ public class Calculator extends AppCompatActivity {
         b_plus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                if (!editText1.getText().toString().equals("") || !editText2.getText().toString().equals("")){
+                    num1 = Double.parseDouble(editText1.getText().toString());
+                    num2 = Double.parseDouble(editText2.getText().toString());
 
+                    result =num1 + num2;
+
+                    textView.setText(" " +  result);
+                }
             }
         });
 
         b_minus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                if (!editText1.getText().toString().equals("") || !editText2.getText().toString().equals("")){
+                    num1 = Double.parseDouble(editText1.getText().toString());
+                    num2 = Double.parseDouble(editText2.getText().toString());
+
+                    result =num1 - num2;
+
+                    textView.setText(" " +  result);
+                }
 
             }
         });
@@ -50,13 +68,29 @@ public class Calculator extends AppCompatActivity {
         b_multi.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                if (!editText1.getText().toString().equals("") || !editText2.getText().toString().equals("")){
+                    num1 = Double.parseDouble(editText1.getText().toString());
+                    num2 = Double.parseDouble(editText2.getText().toString());
+
+                    result =num1 * num2;
+
+                    textView.setText(" " +  result);
+                }
 
             }
         });
-        
+
         b_div.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                if (!editText1.getText().toString().equals("") || !editText2.getText().toString().equals("")){
+                    num1 = Double.parseDouble(editText1.getText().toString());
+                    num2 = Double.parseDouble(editText2.getText().toString());
+
+                    result =num1 / num2;
+
+                    textView.setText(" " +  result);
+                }
 
             }
         });

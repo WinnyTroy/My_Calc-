@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_df4a280673af1143bb8a39b00e730e918e43c18f/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_2403442f73aeafd15282335c82f6d9daebc57292/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_82b94d9ead122551bae1f99e82a1a2b49c221fec/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_97d1b881f1cff8e8e958c4c9f598551b61973d08/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_cd70ee2eb9610b4424a66ca1081a3f0109ece76a/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_a480677b1dd216222af70f5023df604b4ee3f9fe/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_326fd234fad2fb2b133f81946d512b6636bebd19/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_a8fcbf429333d97e3d84ea252af5487c1ee97f03/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_16078f7b95c112ca6cd2fb66c935d089b47cf72b/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_5c20e828fdcba8d6da190f5f8ae419e5c92a0b72/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_719b34ce362603be5aefd23b3f4696c9a7f342de/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_cd17a99cbb2c299aca88a91036db52a329875f52/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_8407577e97cfae8f068d8a3d8967a929f851cf9b/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_fc6838acf26b1668f391ddb91524b8306441efec/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_446654fad3080548f2b2bc2934b98024e8085a87/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="68ec80bd4340bbfe90be186b16578ae918ec4796">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3a2857652daaa3093dd7723652b686c70573225/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_0145997fea205e69957575bdd8abdbced9f789ce/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Android/My_Calc-/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8f1a9899cdbd95a7cd66d00d6e1c9fe8cfd9ddd9">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_472012f0e938f9c1c6bf1378b8eb3bca615b42fc/classes.dex" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_f9398b63e1a6425cce5d4001ac71a3f6ee2394bc/classes.dex" />
+    </item>
+
+</items>
