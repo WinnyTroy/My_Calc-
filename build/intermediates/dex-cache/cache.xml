@@ -110,7 +110,7 @@
         jar="/root/Documents/Android/My_Calc-/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="68ec80bd4340bbfe90be186b16578ae918ec4796">
+        sha1="a85de4790ea80540fa6c62635096d9eabfa05828">
         <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f3a2857652daaa3093dd7723652b686c70573225/classes.dex" />
     </item>
     <item
@@ -124,7 +124,7 @@
         jar="/root/Documents/Android/My_Calc-/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="8f1a9899cdbd95a7cd66d00d6e1c9fe8cfd9ddd9">
+        sha1="fef77822d7d5b7c1201021ac2bec7d5c80320115">
         <dex dex="/root/Documents/Android/My_Calc-/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_472012f0e938f9c1c6bf1378b8eb3bca615b42fc/classes.dex" />
     </item>
     <item
